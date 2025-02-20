@@ -1,6 +1,6 @@
 module github.com/thylong/go-templates/02-simple-k8s-fiber-app
 
-go 1.23.2
+go 1.24.0
 
 require (
 	github.com/gofiber/fiber/v2 v2.52.5

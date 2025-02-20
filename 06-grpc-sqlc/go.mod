@@ -1,6 +1,6 @@
 module github.com/thylong/go-templates/06-grpc-sqlc
 
-go 1.23.2
+go 1.24.0
 
 require (
 	github.com/google/uuid v1.6.0

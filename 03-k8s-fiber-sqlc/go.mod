@@ -1,6 +1,6 @@
 module github.com/thylong/go-templates/03-k8s-fiber-sqlc
 
-go 1.23.2
+go 1.24.0
 
 require (
 	github.com/gofiber/fiber/v2 v2.52.5
