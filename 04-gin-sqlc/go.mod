@@ -1,6 +1,6 @@
 module github.com/thylong/go-templates/04-gin-sqlc
 
-go 1.23.2
+go 1.24.0
 
 require (
 	github.com/gin-contrib/logger v1.2.2

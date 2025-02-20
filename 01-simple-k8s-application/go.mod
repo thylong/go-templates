@@ -1,6 +1,6 @@
 module github.com/thylong/go-templates/01-simple-k8s-application
 
-go 1.23.2
+go 1.24.0
 
 require (
 	github.com/rs/zerolog v1.33.0
